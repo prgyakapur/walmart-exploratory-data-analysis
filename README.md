@@ -11,8 +11,6 @@
     <a href="https://github.com/prgyakapur/walmart-exploratory-data-analysis"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/prgyakapur/walmart-exploratory-data-analysis/blob/main/walmart.ipynb">View Demo</a>
-    ·
     <a href="https://github.com/prgyakapur/walmart-exploratory-data-analysis/issues">Report Bug</a>
     ·
     <a href="https://github.com/prgyakapur/walmart-exploratory-data-analysis/issues">Request Feature</a>
@@ -195,7 +193,7 @@ The exploratory analysis revealed key patterns:
 <!-- CONTACT -->
 ## Contact
 
-Prgya Kapur - [@yourlinkedin](https://linkedin.com/in/yourprofile)
+Prgya Kapur
 
 Project Link: [https://github.com/prgyakapur/walmart-exploratory-data-analysis](https://github.com/prgyakapur/walmart-exploratory-data-analysis)
 
